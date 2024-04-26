@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_VIETINBANK - NH Cong Thuong VN</name>
+   <tag></tag>
+   <elementGuidId>6633e8ca-219f-4466-91a6-83fcd7a9cb7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-bank_code-au-result-gwy4-VIETINBANK</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[contains(@id,'VIETINBANK')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b2318392-fdfe-45fd-9282-53abbf31aabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>b18f179b-247e-4e2c-80f2-0634ed112f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-bank_code-au-result-gwy4-VIETINBANK</value>
+      <webElementGuid>8acf5ca3-f721-4e12-827a-fd15d242d200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>92e2bc48-9a0c-4be3-b991-26ff6b0c1df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ef0f5a6b-7a97-4c87-81db-adbdf23b7717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        VIETINBANK - NH Cong Thuong VN
+                                    </value>
+      <webElementGuid>6e19d2d1-6a09-4411-92fd-57416a942f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-bank_code-au-result-gwy4-VIETINBANK&quot;)</value>
+      <webElementGuid>b39a8d7b-4917-4fd0-a56c-9cd74093e2d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-bank_code-au-result-gwy4-VIETINBANK']</value>
+      <webElementGuid>6c422dcf-3c50-4f98-9917-c43642af123d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-bank_code-au-results']/li[2]</value>
+      <webElementGuid>8ed51578-21a4-4462-a635-3a7981466dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn ngân hàng'])[2]/following::li[1]</value>
+      <webElementGuid>994005e7-c69c-4a4f-a717-b43a7e637e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::li[2]</value>
+      <webElementGuid>56379bb1-02ba-49b4-84be-19bbd572e3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIDV - NH Dau Tu va Phat Trien VN'])[2]/preceding::li[1]</value>
+      <webElementGuid>697a42df-0d94-4d10-b939-279d58618565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGRIBANK - NH Nong Nghiep va PTNT VN'])[2]/preceding::li[2]</value>
+      <webElementGuid>a52d50c6-64e0-4c96-b066-dbca7167ae31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[2]</value>
+      <webElementGuid>392461cc-b6cd-4255-a4e4-352453aa04a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-bank_code-au-result-gwy4-VIETINBANK' and (text() = '
+                                        VIETINBANK - NH Cong Thuong VN
+                                    ' or . = '
+                                        VIETINBANK - NH Cong Thuong VN
+                                    ')]</value>
+      <webElementGuid>077804bc-4359-4578-b8c4-a68cb12249b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

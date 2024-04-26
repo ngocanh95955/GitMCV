@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ExpectedMSG_VuilongnhapthongtinNH</name>
+   <tag></tag>
+   <elementGuidId>59802bad-3400-4234-a4cd-2d636f8cbb98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.form-text.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>9c4ba7ae-c107-44bb-8158-00bf3287beec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-text text-danger</value>
+      <webElementGuid>7122fd01-af01-41e5-b2ba-acc648f6f158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vui lòng nhập chọn ngân hàng</value>
+      <webElementGuid>271a3cf3-dd27-4f9d-bc32-f71575ffbee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refundModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body refund-content&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;mb-3 clearfix&quot;]/div[1]/div[@class=&quot;form-group&quot;]/small[@class=&quot;form-text text-danger&quot;]</value>
+      <webElementGuid>b8148394-5cc8-4b07-8961-e94895c18ac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div/small</value>
+      <webElementGuid>de113e3b-8ee8-423b-b9e0-b218d3627f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn ngân hàng'])[2]/following::small[1]</value>
+      <webElementGuid>eaf7c753-a598-4949-9c3b-cb14d9a0d2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::small[1]</value>
+      <webElementGuid>40608766-f796-4742-b1b5-5c26d211b98a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loại tài khoản'])[1]/preceding::small[1]</value>
+      <webElementGuid>451fd0ae-1ae0-4a7c-b28f-ec5d5955b741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[2]/preceding::small[1]</value>
+      <webElementGuid>ed689e08-cc5f-4fcc-9534-d9a3c937cceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vui lòng nhập chọn ngân hàng']/parent::*</value>
+      <webElementGuid>02b66516-e507-4d36-b341-4ec3537a77b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>cb8bff3c-f608-498a-9d2e-165953eff0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Vui lòng nhập chọn ngân hàng' or . = 'Vui lòng nhập chọn ngân hàng')]</value>
+      <webElementGuid>9cd11b00-cb90-429b-96f1-9f5c88242736</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10,000VND</name>
+   <tag></tag>
+   <elementGuidId>cc5dd288-0571-4903-a809-bb1a24f8d8ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-center.pd5 > div:nth-of-type(6)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr/td[6]/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a2ef975-6816-44cf-a00f-bdd41691fa27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10,000VND</value>
+      <webElementGuid>153e38a4-207c-43f4-8d54-51ec7f5f8d15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/main[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;pc-show&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[@class=&quot;type-withdraw&quot;]/td[@class=&quot;text-center pd5&quot;]/div[6]</value>
+      <webElementGuid>bbf719ea-ff94-4e03-8bda-85d747d10001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr/td[6]/div[6]</value>
+      <webElementGuid>e6020e44-a080-4026-b1e1-cb624da044ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div[6]</value>
+      <webElementGuid>5acf6e4e-77ad-4558-9d64-3128fb951aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10,000VND' or . = '10,000VND')]</value>
+      <webElementGuid>e4f2568d-5d9d-46ed-8102-59394fb29875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

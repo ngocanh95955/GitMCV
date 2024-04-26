@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thnh cng</name>
+   <tag></tag>
+   <elementGuidId>179cc4fb-8f93-41b6-943e-03b20e5a661d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-lg.badge-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr/td[9]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>49fdf361-6fdd-4299-bb22-4a9c0a6e9a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-lg badge-success</value>
+      <webElementGuid>3d52dc57-ce46-4809-b7ec-adb781328522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thành công</value>
+      <webElementGuid>f8cf2673-f987-4b80-9bb2-396542a131bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/main[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;pc-show&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[@class=&quot;type-withdraw&quot;]/td[@class=&quot;text-center pd5&quot;]/div[@class=&quot;tooltip-c&quot;]/span[@class=&quot;badge badge-lg badge-success&quot;]</value>
+      <webElementGuid>efbe9387-efba-4cb2-a8a2-47c01a052fb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr/td[9]/div/span</value>
+      <webElementGuid>af16a8c2-9f89-4b3a-bf24-ef961f84bb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/span</value>
+      <webElementGuid>98044dc3-6041-4c29-b41a-1b08a399d63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Thành công' or . = 'Thành công')]</value>
+      <webElementGuid>e75826f6-168c-4144-83a2-e5b955153075</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

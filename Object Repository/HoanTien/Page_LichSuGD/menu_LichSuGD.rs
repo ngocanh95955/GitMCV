@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_LichSuGD</name>
+   <tag></tag>
+   <elementGuidId>752b7075-1cfe-47c0-bc38-25721368a531</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='report']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#report > ul.sub-menu > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8aa2cab9-e1e9-4719-b86d-01965c6d1ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/transaction</value>
+      <webElementGuid>b4be7d38-4a70-46c6-b127-f555083ef244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Xem lịch sử giao dịch</value>
+      <webElementGuid>d96c882f-9c02-4cae-abfc-c7dcd0231c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report&quot;)/ul[@class=&quot;sub-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>c6cb2e49-45e4-4b06-8959-4110f700f7cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='report']/ul/li/a</value>
+      <webElementGuid>cd84deba-36b5-4226-8259-1adcd0bb86b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Xem lịch sử giao dịch')]</value>
+      <webElementGuid>3611c043-8d90-490b-8823-eb9b96dc2ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/transaction')]</value>
+      <webElementGuid>0a228382-50c8-46e0-9d1c-e916a66afdc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>a08f0c72-ee28-452b-9d3c-8f4f3cceefd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/transaction' and (text() = '  Xem lịch sử giao dịch' or . = '  Xem lịch sử giao dịch')]</value>
+      <webElementGuid>877dabe6-9964-4581-8a3c-0d5bda44e64f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

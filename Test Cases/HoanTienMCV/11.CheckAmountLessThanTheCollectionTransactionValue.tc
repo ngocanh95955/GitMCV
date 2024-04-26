@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11.CheckAmountLessThanTheCollectionTransactionValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4744b9c5-fe7b-4b04-b40b-a28ed3e4068f</testCaseGuid>
+</TestCaseEntity>

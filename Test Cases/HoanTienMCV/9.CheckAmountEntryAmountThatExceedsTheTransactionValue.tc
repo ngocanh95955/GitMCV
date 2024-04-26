@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9.CheckAmountEntryAmountThatExceedsTheTransactionValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e142ff6-a3e9-4beb-9997-4fdc4b702eb7</testCaseGuid>
+</TestCaseEntity>

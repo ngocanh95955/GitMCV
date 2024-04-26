@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expected_TextboxSotienGD</name>
+   <tag></tag>
+   <elementGuidId>42017fe7-fa0e-49e2-8d35-bb39e5495697</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div[4]/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ebe41da8-4519-427f-859a-1bb15bb76943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Số tiền GD</value>
+      <webElementGuid>d4f26b2e-22c0-402c-98c5-d1078fd77765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refundModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body refund-content&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;mb-3 clearfix&quot;]/div[1]/div[@class=&quot;form-group&quot;]/label[1]/b[1]</value>
+      <webElementGuid>597c035d-2990-4fbd-97c8-3d9a3dc13e71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div[4]/label/b</value>
+      <webElementGuid>18aba772-07ea-4ac5-8544-230783471f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[3]/following::b[1]</value>
+      <webElementGuid>4c7a9904-27ed-4f53-94f4-d8ec28102848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số tài khoản ngân hàng'])[2]/following::b[1]</value>
+      <webElementGuid>d2ea73e1-5699-4868-ac1e-1db7e291f0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[4]/preceding::b[1]</value>
+      <webElementGuid>f6db3966-8bc4-4d0b-8315-92edf073820c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kiểm tra thông tin'])[1]/preceding::b[1]</value>
+      <webElementGuid>528cd334-7ef8-413a-aee9-2b238ba61194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/b</value>
+      <webElementGuid>c05d5f98-eef6-4757-bb3d-6d69a79ec2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Số tiền GD' or . = 'Số tiền GD')]</value>
+      <webElementGuid>bc554ada-cc8e-4ac2-83eb-a0cd117d9ad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

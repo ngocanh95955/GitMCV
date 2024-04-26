@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Qun l dch v Chi</name>
+   <tag></tag>
+   <elementGuidId>26db0e89-aa4f-4e6e-b086-f0cd18f1a708</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payout_mananger > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='payout_mananger']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>289e8411-7858-4cd9-8f98-853534a808e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>2c281388-469a-4837-a81f-14d009d6e39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Quản lý dịch vụ Chi</value>
+      <webElementGuid>46ffea94-c1c8-4dc4-9092-85fe0c724228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payout_mananger&quot;)/a[1]</value>
+      <webElementGuid>65da3fb1-e582-4da5-a037-05d339cdbe04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='payout_mananger']/a</value>
+      <webElementGuid>f173b8b4-d41d-488b-827b-40b6ec31e8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quản lý dịch vụ Chi')]</value>
+      <webElementGuid>45eeb1da-3ad1-414e-90ab-f907cef08993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>220ff03b-427c-49bf-aec8-c691998fea8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[4]/a</value>
+      <webElementGuid>1f0d8eb4-97e7-4548-a319-11ae9418b3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '  Quản lý dịch vụ Chi' or . = '  Quản lý dịch vụ Chi')]</value>
+      <webElementGuid>7bc0b5fb-9e30-4fb5-8e4f-e79fa01ea6a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

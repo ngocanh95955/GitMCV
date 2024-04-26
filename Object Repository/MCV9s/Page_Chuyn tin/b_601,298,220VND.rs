@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_601,298,220VND</name>
+   <tag></tag>
+   <elementGuidId>b0b349e8-e8c5-4d3b-b361-9c67cd1978e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='body-site']/div/div/div/ul/li[4]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>07bc0415-2dad-44f9-823e-44d911ba43c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  601,298,220VND</value>
+      <webElementGuid>27c9fada-5804-4a58-b661-b749c94ba08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-site&quot;)/div[1]/div[@class=&quot;header mcv-header&quot;]/div[1]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/b[1]</value>
+      <webElementGuid>5f841a05-7e0f-4a14-ae95-73ce3f00a4ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='body-site']/div/div/div/ul/li[4]/a/b</value>
+      <webElementGuid>46e2fc69-cca4-4547-847e-e2d2fd499e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/b</value>
+      <webElementGuid>301f0290-0da3-4658-b9ac-82d8a2af5370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '  601,298,220VND' or . = '  601,298,220VND')]</value>
+      <webElementGuid>f57469fd-104f-4492-9cbd-5099f6e6c6c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

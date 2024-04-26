@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_To lnh chi tin n</name>
+   <tag></tag>
+   <elementGuidId>e8c39eb2-c109-4ef7-aaee-3467275c6d2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payout_mananger > ul.sub-menu > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='payout_mananger']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c75f5400-b2c9-4aec-bd00-1ab0d545f287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/transfer-banks</value>
+      <webElementGuid>9cc883b0-544f-448e-8f60-706a23eed13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Tạo lệnh chi tiền đơn</value>
+      <webElementGuid>336904f3-f820-4a8d-ac75-74ed90335af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payout_mananger&quot;)/ul[@class=&quot;sub-menu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>84cc0025-7556-410d-8cf9-840972253b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='payout_mananger']/ul/li[2]/a</value>
+      <webElementGuid>f044d4aa-10d4-473e-bef3-638a8c382118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tạo lệnh chi tiền đơn')]</value>
+      <webElementGuid>38b69398-1934-40b6-b744-924f6f2ff978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/transfer-banks')]</value>
+      <webElementGuid>ea248087-123a-4507-b6e2-afbf639cd5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a</value>
+      <webElementGuid>5beb6211-560a-4529-b7db-ba3dd7e5d137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/transfer-banks' and (text() = '  Tạo lệnh chi tiền đơn' or . = '  Tạo lệnh chi tiền đơn')]</value>
+      <webElementGuid>9b9bb87b-be02-4517-865f-e72ebd4c075a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

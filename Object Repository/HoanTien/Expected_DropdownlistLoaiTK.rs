@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expected_DropdownlistLoaiTK</name>
+   <tag></tag>
+   <elementGuidId>62171b3a-3773-4ddb-9f47-240d0e506e95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div[2]/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a4628bcc-3e1e-44eb-844b-718f66b33063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Loại tài khoản</value>
+      <webElementGuid>6bc6ff35-9599-4676-a732-6ed5a1af5ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refundModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body refund-content&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;mb-3 clearfix&quot;]/div[1]/div[@class=&quot;form-group&quot;]/label[1]/b[1]</value>
+      <webElementGuid>0320b492-9bb4-4d03-b091-02b7e21fefd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div[2]/label/b</value>
+      <webElementGuid>ea10aede-39c1-4970-8ff8-9b6ee49ed318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn ngân hàng'])[2]/following::b[2]</value>
+      <webElementGuid>73e52285-c02a-4de9-8d42-fe89b101e539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::b[2]</value>
+      <webElementGuid>f2684e92-a9f7-4fda-8b30-3424310352b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[2]/preceding::b[1]</value>
+      <webElementGuid>dd51fd23-7401-4421-9180-484ab1a1ea1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số tài khoản ngân hàng'])[2]/preceding::b[1]</value>
+      <webElementGuid>6d423807-31f1-4fde-9d7c-953e9216235d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Loại tài khoản']/parent::*</value>
+      <webElementGuid>e7878284-3533-4d2c-bef6-1c0678929a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/b</value>
+      <webElementGuid>8419f8d6-8d68-47ec-b0ab-f49d5c19b65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Loại tài khoản' or . = 'Loại tài khoản')]</value>
+      <webElementGuid>c82907f7-a2dd-4cf9-bc49-ea6fd1448a3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hExpected_TitleXemLichSuGD</name>
+   <tag></tag>
+   <elementGuidId>3634d5f1-52e9-4aa4-96d2-a36eadd1f6aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main&quot;]/main/div/div[1]/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>ae6861eb-cd72-4375-b8dc-c3e61008f63d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xem lịch sử giao dịch</value>
+      <webElementGuid>4adfc760-08f7-4462-b673-8da7dfab0a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/main[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;page-header&quot;]/div[@class=&quot;container-fluid d-sm-flex justify-content-between&quot;]/h4[1]</value>
+      <webElementGuid>de7cfb6f-76e2-41dd-ae0a-3177f08c8a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/main/div/div/div/h4</value>
+      <webElementGuid>4e24f902-bdc3-488c-bba2-3ca2b383b3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/preceding::h4[1]</value>
+      <webElementGuid>104c0207-c5da-4f56-aab3-2568080c8a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem lịch sử giao dịch'])[2]/preceding::h4[1]</value>
+      <webElementGuid>945ec6e8-d6a8-490b-8fb0-e4264066851c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xem lịch sử giao dịch']/parent::*</value>
+      <webElementGuid>d3816397-1b6e-46eb-8832-4ec331dc6cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>7caa8cab-85be-454d-b748-f6bd75232e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Xem lịch sử giao dịch' or . = 'Xem lịch sử giao dịch')]</value>
+      <webElementGuid>096f2a1e-1b64-43b9-b4e9-492111cbd29e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

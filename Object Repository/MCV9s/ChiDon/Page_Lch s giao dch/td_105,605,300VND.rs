@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_105,605,300VND</name>
+   <tag></tag>
+   <elementGuidId>6ae5155c-5f43-483f-a738-2b39898a2496</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>46c26605-4c6f-4ef7-8e60-a7e1a4e06965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center pd5</value>
+      <webElementGuid>5fb0b621-9de2-40d0-9187-d5a56d796146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            105,605,300VND
+                                        </value>
+      <webElementGuid>05ede19e-288a-4799-82c9-b65e498d3b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/main[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;pc-show&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[@class=&quot;type-transfer_bank&quot;]/td[@class=&quot;text-center pd5&quot;]</value>
+      <webElementGuid>16cac722-15fc-43f2-9aaf-2ce6051041ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr/td[7]</value>
+      <webElementGuid>5ca83508-5c08-47db-9c59-aef171fb1f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>57352377-2d71-46df-bb85-c4d170851982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                            105,605,300VND
+                                        ' or . = '
+                                            105,605,300VND
+                                        ')]</value>
+      <webElementGuid>8d4d429e-44ca-44c3-9868-e2fa060b4cbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

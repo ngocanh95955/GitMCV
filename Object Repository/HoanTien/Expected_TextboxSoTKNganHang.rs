@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expected_TextboxSoTKNganHang</name>
+   <tag></tag>
+   <elementGuidId>d16e5634-677f-48fc-b5f9-e029a987059d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div[3]/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>c8f3dc86-7507-4df8-ad73-c494933459a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Số tài khoản ngân hàng</value>
+      <webElementGuid>4446d122-62da-49d3-a6f5-2d59be54ff58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refundModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body refund-content&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;mb-3 clearfix&quot;]/div[1]/div[@class=&quot;form-group&quot;]/label[1]/b[1]</value>
+      <webElementGuid>d1011867-5ab4-4a6f-b982-06b5a0193305</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refundModal']/div/div/div[2]/form/div/div/div[3]/label/b</value>
+      <webElementGuid>82e9fbb2-1c0e-4044-8436-f7f27b1881cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[2]/following::b[1]</value>
+      <webElementGuid>10e05fed-1240-43a7-a1cc-a8382e757dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loại tài khoản'])[1]/following::b[1]</value>
+      <webElementGuid>214dc23b-4c64-48e9-ac39-3b7892f44fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[3]/preceding::b[1]</value>
+      <webElementGuid>996fa894-dca8-4c44-bfca-28194bd9ba44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số tiền GD'])[2]/preceding::b[1]</value>
+      <webElementGuid>601e7066-c7a5-4ffe-ab4b-6c5a815d1b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/b</value>
+      <webElementGuid>c46b45e9-935b-42bd-a87e-4a2c4d8b65db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Số tài khoản ngân hàng' or . = 'Số tài khoản ngân hàng')]</value>
+      <webElementGuid>2880aaa7-468b-40a8-96cc-7b9db41ae24d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
