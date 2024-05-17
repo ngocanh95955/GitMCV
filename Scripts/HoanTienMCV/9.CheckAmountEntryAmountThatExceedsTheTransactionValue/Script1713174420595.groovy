@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'NWMXER72')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'Z1R6OKWM')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -49,11 +49,11 @@ WebUI.click(findTestObject('HoanTien/li_VIETINBANK - NH Cong Thuong VN'))
 
 WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_STKNganhang'), '1023020330000')
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_SoTien'), '60000')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_SoTien'), '600000')
 
 WebUI.click(findTestObject('HoanTien/button_Kiemtrathongtin'))
 
-WebUI.verifyElementText(findTestObject('HoanTien/MSG_SoTienkhonghople'), 'Số tiền hoàn tối đa là 50,000 VND')
+WebUI.verifyElementText(findTestObject('HoanTien/MSG_SoTienkhonghople'), 'Số tiền hoàn tối đa là 100,000 VND')
 
 WebUI.closeBrowser()
 

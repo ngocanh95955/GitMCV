@@ -23,9 +23,9 @@ import com.kms.katalon.core.webui.driver.DriverFactory
 
 WebUI.setViewPortSize(1920, 1080)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'), 2)
+// WebUI.waitForElementVisible(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'), 2)
 
-WebUI.click(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'))
+// WebUI.click(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'))
 
 WebUI.click(findTestObject('Object Repository/MCV9s/QLtaiKhoan/menuDSTKPhu'))
 

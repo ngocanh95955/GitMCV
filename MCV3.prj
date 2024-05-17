@@ -4,7 +4,7 @@
    <name>MCV3</name>
    <tag></tag>
    <UUID>4c821e0e-13c0-4d2c-97ef-462d4e53e3f6</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>

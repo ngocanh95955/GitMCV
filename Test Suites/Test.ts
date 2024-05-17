@@ -95,7 +95,7 @@
    <testCaseLink>
       <guid>1a626908-d2a8-4b43-895e-3bc22fb71eda</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/MCV9s/OpenLenhChiDon</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

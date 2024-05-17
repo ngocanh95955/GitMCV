@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Hoantien1</name>
+   <name>21.Check Partial Refund Successfully</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>10234c97-e55a-4698-9a07-cda691c376bf</testCaseGuid>
+   <testCaseGuid>ec02b0a3-4afb-43a5-ae63-3699384c1b2f</testCaseGuid>
 </TestCaseEntity>

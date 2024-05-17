@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'NWMXER72')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'Z1R6OKWM')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -60,4 +60,6 @@ String filledText = WebUI.getAttribute(inputField, 'value')
 WebUI.verifyMatch(filledText, 'NGUYEN VAN A', false)
 
 WebUI.click(findTestObject('HoanTien/button_ChonNganHangKhac'))
+
+WebUI.closeBrowser()
 

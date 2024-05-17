@@ -21,14 +21,14 @@
    <testCaseLink>
       <guid>7e93ad6a-30f6-4222-8a91-c1145579722b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/MCV9s/OpenFuncChuyenTien</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>02c53db1-fcf5-40a1-9cba-b1ef3c737211</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/MCV9s/ChuyenTien</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -240,7 +240,7 @@
    <testCaseLink>
       <guid>d869ead7-1023-4fcc-9394-01e472a4bb3f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/MCV9s/QLTaiKhoanPhu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

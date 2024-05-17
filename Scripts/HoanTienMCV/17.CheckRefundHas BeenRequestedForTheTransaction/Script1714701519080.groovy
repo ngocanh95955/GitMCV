@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://stg-console.9pay.mobi/login')
+
+WebUI.setText(findTestObject('MCV9s/Page_Login system 9PAY/input_username'), 'autotest')
+
+WebUI.setText(findTestObject('MCV9s/Page_Login system 9PAY/input_password'), 'autotest@9s.vn')
+
+WebUI.click(findTestObject('MCV9s/Page_Login system 9PAY/button_ng nhp'))
+
+WebUI.setViewPortSize(1920, 1080)
+
+WebUI.waitForElementVisible(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'), 2)
+
+WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
+
+WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
+
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'P3QBEM3D')
+
+WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
+
+WebUI.scrollToElement(findTestObject('HoanTien/Page_LichSuGD/button_hoantien'), 0)
+
+WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_hoantien'))
+
+def textExpected = WebUI.getText(findTestObject('HoanTien/Expected_popupGDdaduochoantien'))
+
+WebUI.verifyEqual(textExpected, 'Giao dịch đã được yêu cầu hoàn. Vui lòng chờ.', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeBrowser()
+
