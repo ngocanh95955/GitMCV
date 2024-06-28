@@ -4,5 +4,6 @@
    <name>16.CheckPartialRefund</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>afaa4747-13e8-482a-beaa-d846c96970a5</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Tài khoản nhận tiền</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>680be40d-51df-4823-8b4b-60e3165d55e6</testSuiteGuid>
+   <testCaseLink>
+      <guid>e387844b-f0a4-4268-ae52-b071770c0efb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/QLyTKNhanTien/1. Kiểm tra chức năng tìm kiếm tại màn hình Quản lý tài khoản nhận</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>af829c21-4b7d-4d60-a58c-41fcbbf82b27</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TKNHanTien</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>af829c21-4b7d-4d60-a58c-41fcbbf82b27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>account</value>
+         <variableId>bada0e7e-c806-42bf-b5d4-ca57d8a3a1ca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af829c21-4b7d-4d60-a58c-41fcbbf82b27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>quocgia</value>
+         <variableId>71c71be4-ce10-4c95-84f4-a5d277539a79</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af829c21-4b7d-4d60-a58c-41fcbbf82b27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tennganhang</value>
+         <variableId>9d388b71-f3e7-45a1-a2a4-ae2398daaa1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af829c21-4b7d-4d60-a58c-41fcbbf82b27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>stk</value>
+         <variableId>e014d16c-aff6-4ac7-b44b-4fc88cce35ba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af829c21-4b7d-4d60-a58c-41fcbbf82b27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>validateRessult</value>
+         <variableId>c3b5b8b6-83d0-4579-994b-2b13a2717e41</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>be56b6c2-4100-4b7c-b1cb-acf97e4c0c42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QLyTKNhanTien/3.Verify màn hình thêm tài khoản nhận tiền không hợp lệ</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>13740e84-2700-4a42-97ed-fb2bbec96e5c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataTestVerifyTaiKhoan</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>13740e84-2700-4a42-97ed-fb2bbec96e5c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Taikhoan</value>
+         <variableId>ed15739d-b9aa-4937-9c53-d3a2f095dcd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13740e84-2700-4a42-97ed-fb2bbec96e5c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tentaikhoan</value>
+         <variableId>675ac2e3-e870-4977-93a9-d410e25c6a6f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13740e84-2700-4a42-97ed-fb2bbec96e5c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ValidateRessult</value>
+         <variableId>de5e9d72-dde5-44ec-9f06-47b17ba1b496</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

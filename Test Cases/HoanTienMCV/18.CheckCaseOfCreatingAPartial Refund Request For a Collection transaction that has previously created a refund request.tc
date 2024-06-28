@@ -4,5 +4,6 @@
    <name>18.CheckCaseOfCreatingAPartial Refund Request For a Collection transaction that has previously created a refund request</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>8ccae173-fe51-4b46-a9e7-890a862db47b</testCaseGuid>
 </TestCaseEntity>

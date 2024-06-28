@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Kiểm tra tạo yêu câu tài khoản nhân tiền không thành công do đã tồn tại tài khoản đang chờ duyệt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d04a965-7fee-43a4-9551-8386fde092b8</testCaseGuid>
+</TestCaseEntity>

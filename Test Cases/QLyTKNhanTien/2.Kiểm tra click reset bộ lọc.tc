@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.Kiểm tra click reset bộ lọc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>861fd594-87aa-4f63-b478-f531baadd358</testCaseGuid>
+</TestCaseEntity>

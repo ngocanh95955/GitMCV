@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'N0E6WY4O')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'PR1M3EVK')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 

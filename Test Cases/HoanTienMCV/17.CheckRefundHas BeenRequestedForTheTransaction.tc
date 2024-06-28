@@ -4,5 +4,6 @@
    <name>17.CheckRefundHas BeenRequestedForTheTransaction</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>d201022a-6f7f-419d-8857-c031c6dcab69</testCaseGuid>
 </TestCaseEntity>

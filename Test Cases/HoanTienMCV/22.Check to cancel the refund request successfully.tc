@@ -4,5 +4,6 @@
    <name>22.Check to cancel the refund request successfully</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>32b1d50a-6443-4262-a941-cc36d474a666</testCaseGuid>
 </TestCaseEntity>

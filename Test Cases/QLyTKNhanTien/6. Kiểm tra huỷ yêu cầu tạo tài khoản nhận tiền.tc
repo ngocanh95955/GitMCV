@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Kiểm tra huỷ yêu cầu tạo tài khoản nhận tiền</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f4fc088-e891-4c4c-9351-eccbf07e6f7a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Kiểm tra hiển thị ngân hàng nhận tiền đã thêm hiển thị tại mục Rút tiền CMS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0217c10b-6eef-4694-831b-5b359cd14201</testCaseGuid>
+</TestCaseEntity>

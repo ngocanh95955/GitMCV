@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'P84E5J6E')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'P84E3D74')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -81,7 +81,7 @@ WebUI.click(findTestObject('HoanTien/menu_GDthuchitonghop'))
 
 WebUI.click(findTestObject('HoanTien/menu_GDthuhochiho'))
 
-WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'P84E5J6E')
+WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'P84E3D74')
 
 WebUI.click(findTestObject('HoanTien/button_timkiemcms'))
 
@@ -95,7 +95,7 @@ WebUI.setText(findTestObject('HoanTien/input_noidung'), 'huỷ yêu cầu hoàn'
 
 WebUI.click(findTestObject('HoanTien/button_capnhathuy'))
 
-WebUI.click(findTestObject('HoanTien/button_OK'))
+WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
 WebUI.navigateToUrl('https://stg-console.9pay.mobi/login')
 
@@ -107,7 +107,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'P84E5J6E')
+WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'P84E3D74')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 

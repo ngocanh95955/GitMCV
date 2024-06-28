@@ -4,5 +4,6 @@
    <name>21.Check Partial Refund Successfully</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>ec02b0a3-4afb-43a5-ae63-3699384c1b2f</testCaseGuid>
 </TestCaseEntity>

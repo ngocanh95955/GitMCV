@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8.Kiểm tra tài khoản có trạng thái không hoạt động</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67d87a5c-37b4-4ab4-9ffe-940d384540f0</testCaseGuid>
+</TestCaseEntity>

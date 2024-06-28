@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.Verify màn hình thêm tài khoản nhận tiền không hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53e88ec4-f7ca-47b2-9f17-67e6de633764</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed15739d-b9aa-4937-9c53-d3a2f095dcd2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>675ac2e3-e870-4977-93a9-d410e25c6a6f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de5e9d72-dde5-44ec-9f06-47b17ba1b496</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed15739d-b9aa-4937-9c53-d3a2f095dcd2</id>
+      <masked>false</masked>
+      <name>Taikhoan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>675ac2e3-e870-4977-93a9-d410e25c6a6f</id>
+      <masked>false</masked>
+      <name>Tentaikhoan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de5e9d72-dde5-44ec-9f06-47b17ba1b496</id>
+      <masked>false</masked>
+      <name>ValidateRessult</name>
+   </variable>
+</TestCaseEntity>

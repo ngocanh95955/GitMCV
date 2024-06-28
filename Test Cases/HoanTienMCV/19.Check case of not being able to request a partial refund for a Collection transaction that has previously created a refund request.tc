@@ -4,5 +4,6 @@
    <name>19.Check case of not being able to request a partial refund for a Collection transaction that has previously created a refund request</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>943c71cb-e7bb-4d20-9fb1-743bd94509ea</testCaseGuid>
 </TestCaseEntity>

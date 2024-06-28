@@ -35,11 +35,11 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'NWMXE85K')
-
-WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'ZORYKDV3')
 
 WebUI.scrollToElement(findTestObject('HoanTien/Page_LichSuGD/button_hoantien'), 0)
+
+WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_hoantien'))
 
@@ -81,7 +81,7 @@ WebUI.click(findTestObject('HoanTien/menu_GDthuchitonghop'))
 
 WebUI.click(findTestObject('HoanTien/menu_GDthuhochiho'))
 
-WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'NWMXE85K')
+WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'ZORYKDV3')
 
 WebUI.click(findTestObject('HoanTien/button_timkiemcms'))
 
@@ -97,55 +97,55 @@ WebUI.click(findTestObject('HoanTien/button_Duyet'))
 
 WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
-WebUI.delay(3)
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('HoanTien/VH_Duyetlan1'))
 
-WebUI.delay(2)
+WebUI.waitForElementClickable(findTestObject('HoanTien/VH_Duyetlan1'), 0)
 
 WebUI.click(findTestObject('HoanTien/button_Dongy_Duyethoan'))
 
-WebUI.delay(2)
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('HoanTien/button_OK'))
+WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
-WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('HoanTien/button_OKchitiet'), 0)
 
 WebUI.click(findTestObject('HoanTien/VH_Duyetlan2'))
 
-WebUI.delay(2)
+WebUI.waitForElementClickable(findTestObject('HoanTien/VH_Duyetlan2'), 0)
 
 WebUI.click(findTestObject('HoanTien/button_Dongy_Duyethoan'))
 
-WebUI.delay(2)
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('HoanTien/button_OK'))
+WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
-WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('HoanTien/button_OKchitiet'), 0)
 
 WebUI.click(findTestObject('HoanTien/KT_Duỵetlan1'))
 
-WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('HoanTien/KT_Duỵetlan1'), 0)
 
 WebUI.click(findTestObject('HoanTien/button_Dongy_Duyethoan'))
 
-WebUI.delay(3)
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('HoanTien/button_OK'))
+WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
-WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('HoanTien/button_OKchitiet'), 0)
 
 WebUI.click(findTestObject('HoanTien/KT_Duyetlan2'))
 
-WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('HoanTien/KT_Duyetlan2'), 0)
 
 WebUI.click(findTestObject('HoanTien/button_Dongy_Duyethoan'))
 
-WebUI.delay(3)
+WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('HoanTien/button_OK'))
+WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
-WebUI.delay(3)
+WebUI.waitForElementClickable(findTestObject('HoanTien/button_OKchitiet'), 0)
 
 WebUI.navigateToUrl('https://stg-console.9pay.mobi/login')
 
@@ -157,7 +157,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'NWMXE85K')
+WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'ZORYKDV3')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 

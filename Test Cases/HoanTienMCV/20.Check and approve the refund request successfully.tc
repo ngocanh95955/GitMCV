@@ -4,5 +4,6 @@
    <name>20.Check and approve the refund request successfully</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f136c411-0a00-431e-9dd3-f0e1ad3a2f8a</testCaseGuid>
 </TestCaseEntity>
