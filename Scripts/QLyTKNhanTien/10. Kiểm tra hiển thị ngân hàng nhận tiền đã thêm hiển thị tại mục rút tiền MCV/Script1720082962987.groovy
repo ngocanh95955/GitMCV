@@ -19,43 +19,39 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('QLyTKNhanTien/7.Kiêm tra tài khoản có trạng thái hoạt động'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
+WebUI.callTestCase(findTestCase('Login/Login MCV1'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('QlyTKNHanTien/menu_Qlydanhsachtaikhoan'))
+WebUI.click(findTestObject('QlyTKNHanTien/menu_Quanlysodu'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_taikhoanMC1'))
+WebUI.click(findTestObject('QlyTKNHanTien/menu_ruttien'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_mc1'))
+WebUI.setText(findTestObject('QlyTKNHanTien/input_sotien'), '100000')
 
-WebUI.click(findTestObject('QlyTKNHanTien/input_nhaptk'))
+WebUI.click(findTestObject('QlyTKNHanTien/button_tieptucMCV'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/button_searchqltk'))
+WebUI.delay(4)
 
-WebUI.click(findTestObject('QlyTKNHanTien/button_ruttiencms'))
+WebUI.click(findTestObject('QlyTKNHanTien/chon_loaihinhruttien'))
 
-WebUI.delay(9)
+WebUI.click(findTestObject('QlyTKNHanTien/chon_chuyenkhoan'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_virut'))
+WebUI.scrollToElement(findTestObject('QlyTKNHanTien/button_kiemtrathongtin'), 0)
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_vichi'))
+WebUI.click(findTestObject('QlyTKNHanTien/button_kiemtrathongtin'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_thoigian'))
+WebUI.click(findTestObject('QlyTKNHanTien/button_tieptucMCV1'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_thoigianhq'))
+WebUI.click(findTestObject('QlyTKNHanTien/button_okmcv'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/button_tieptuc'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('QlyTKNHanTien/button_dongyrut'))
+WebUI.scrollToElement(findTestObject('QlyTKNHanTien/button_timkiemmcv'), 0)
 
-WebUI.setText(findTestObject('QlyTKNHanTien/input_sotien'), '10000')
+WebUI.verifyElementText(findTestObject('QlyTKNHanTien/expexted_taikhoanmcv'), '9Service')
 
-WebUI.click(findTestObject('QlyTKNHanTien/button_xacnhanruttien'))
+WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_thongtinnganhang'), 'Tài khoản nhận\nBIDV\n1023020330000\nNGUYEN VAN A')
 
-WebUI.scrollToElement(findTestObject('QlyTKNHanTien/button_duyetVH'), 0)
+WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_loaigiaodich'), 'Dịch vụ\nThu hộ\nLoại giao dịch\nRút tiền')
 
-WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_tennganhang'), 'BIDV')
-
-WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_soTK'), '1023020330000')
-
-WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_tenTK'), 'NGUYEN VAN A')
+WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_sotienmcv'), 'Giá trị GD\n100,000VND\nPhí GD\n0VND\nSố tiền GD\n100,000VND')
 

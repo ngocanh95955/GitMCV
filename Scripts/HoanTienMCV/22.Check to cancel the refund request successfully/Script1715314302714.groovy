@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'P84E3D74')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'Z718R334')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -81,7 +81,7 @@ WebUI.click(findTestObject('HoanTien/menu_GDthuchitonghop'))
 
 WebUI.click(findTestObject('HoanTien/menu_GDthuhochiho'))
 
-WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'P84E3D74')
+WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'Z718R334')
 
 WebUI.click(findTestObject('HoanTien/button_timkiemcms'))
 
@@ -107,7 +107,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'P84E3D74')
+WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'Z718R334')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 

@@ -37,7 +37,7 @@ WebUI.setText(findTestObject('QlyTKNHanTien/input_tenquocgia'), quocgia)
 
 WebUI.click(findTestObject('QlyTKNHanTien/Filter_Tên ngân hàng'))
 
-WebUI.setText(findTestObject('QlyTKNHanTien/input_tennganhang'), tennganhang)
+WebUI.setText(findTestObject('QlyTKNHanTien/input_nganhang'), tennganhang)
 
 WebUI.setText(findTestObject('QlyTKNHanTien/input_stk'), stk)
 

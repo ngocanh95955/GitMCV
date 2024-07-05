@@ -33,11 +33,9 @@ WebUI.click(findTestObject('QlyTKNHanTien/chon_taikhoanMC'), FailureHandling.STO
 
 WebUI.setText(findTestObject('QlyTKNHanTien/chon_taikhoan'), Taikhoan)
 
-WebUI.click(findTestObject('QlyTKNHanTien/chon_nganhang'))
-
 WebUI.click(findTestObject('QlyTKNHanTien/input_tennganhang'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('QlyTKNHanTien/input_sotaikhoan'), Tentaikhoan)
+WebUI.setText(findTestObject('QlyTKNHanTien/input_tennganhang'), Tentaikhoan)
 
 WebUI.click(findTestObject('QlyTKNHanTien/button_kiemtra'))
 

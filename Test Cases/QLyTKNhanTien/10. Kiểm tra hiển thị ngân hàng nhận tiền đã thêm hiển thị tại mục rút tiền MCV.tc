@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Kiểm tra hiển thị ngân hàng nhận tiền đã thêm hiển thị tại mục rút tiền MCV</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5f3cb8a-3c40-41fc-8a27-fd15d63f7c71</testCaseGuid>
+</TestCaseEntity>

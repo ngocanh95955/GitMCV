@@ -23,9 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://stg-console.9pay.mobi/login')
 
-WebUI.setText(findTestObject('Object Repository/MCV9s/Page_Login system 9PAY/input_username'), 'autotest')
+WebUI.setText(findTestObject('Object Repository/MCV9s/Page_Login system 9PAY/input_username'), '9Service')
 
-WebUI.setText(findTestObject('Object Repository/MCV9s/Page_Login system 9PAY/input_password'), 'autotest@9s.vn')
+WebUI.setText(findTestObject('Object Repository/MCV9s/Page_Login system 9PAY/input_password'), '34nkt@34nkt@')
 
 WebUI.click(findTestObject('Object Repository/MCV9s/Page_Login system 9PAY/button_ng nhp'))
 

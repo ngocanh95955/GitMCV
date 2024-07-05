@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'PR1M3EVK')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'P3QB6YY6')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -65,7 +65,7 @@ WebUI.verifyElementText(findTestObject('HoanTien/Expected_PopupSuccess'), 'Yêu 
 
 WebUI.click(findTestObject('HoanTien/button_OK'))
 
-WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'PR1M3EVK')
+WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'P3QB6YY6')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
