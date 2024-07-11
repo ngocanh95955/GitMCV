@@ -21,9 +21,13 @@ WebUI.callTestCase(findTestCase('Login/Login CMS'), [:], FailureHandling.STOP_ON
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
 
+WebUI.delay(3)
+
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'), 0)
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'))
+
+WebUI.delay(3)
 
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'), 0)
 
@@ -35,7 +39,7 @@ WebUI.setText(findTestObject('QlyTKNHanTien/chon_taikhoan'), Taikhoan)
 
 WebUI.click(findTestObject('QlyTKNHanTien/input_tennganhang'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('QlyTKNHanTien/input_tennganhang'), Tentaikhoan)
+WebUI.setText(findTestObject('QlyTKNHanTien/input_sotaikhoan'), Tentaikhoan)
 
 WebUI.click(findTestObject('QlyTKNHanTien/button_kiemtra'))
 

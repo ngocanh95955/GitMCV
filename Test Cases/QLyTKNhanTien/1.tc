@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>1.OpenFuncHoanTien</name>
+   <name>1</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>805b416a-42b5-4c59-8594-415529acbebb</testCaseGuid>
+   <testCaseGuid>78f95a08-ea9c-4caf-bb12-873295ddffdf</testCaseGuid>
 </TestCaseEntity>

@@ -21,9 +21,13 @@ WebUI.callTestCase(findTestCase('Login/Login CMS'), [:], FailureHandling.STOP_ON
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
 
+WebUI.delay(3)
+
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'), 0)
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'))
+
+WebUI.delay(3)
 
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'), 0)
 
@@ -46,6 +50,7 @@ WebUI.delay(3)
 WebUI.click(findTestObject('QlyTKNHanTien/button_xacnhan'))
 
 //chưa verify 
+WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_thongbaoycdatontai'), 'Đã tồn tại tài khoản đang chờ duyệt, vui lòng kiểm tra lại!')
 
-WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_thongbaoycdatontai'), 'Đã tồn tại tài khoản đang chờ duyệt, vui lòng kiểm tra lại!"\n')
+WebUI.closeBrowser()
 

@@ -21,9 +21,13 @@ WebUI.callTestCase(findTestCase('Login/Login CMS'), [:], FailureHandling.STOP_ON
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
 
+WebUI.delay(3)
+
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'), 0)
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'))
+
+WebUI.delay(3)
 
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'), 0)
 
@@ -58,4 +62,6 @@ WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_tentaikhoan'), 'N
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_nganhang'), 'BIDV - NH Dau Tu va Phat Trien VN')
 
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_trangthai'), 'Hoạt động')
+
+
 

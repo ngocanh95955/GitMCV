@@ -21,6 +21,8 @@ WebUI.callTestCase(findTestCase('QLyTKNhanTien/7.Kiêm tra tài khoản có tr�
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('QlyTKNHanTien/menu_Qlydanhsachtaikhoan'))
 
 WebUI.click(findTestObject('QlyTKNHanTien/chon_taikhoanMC1'))

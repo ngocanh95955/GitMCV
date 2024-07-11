@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[4]/p</value>
+         <value>//p[contains(text(),'Đã tồn tại tài khoản đang chờ duyệt, vui lòng kiểm tra lại!')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

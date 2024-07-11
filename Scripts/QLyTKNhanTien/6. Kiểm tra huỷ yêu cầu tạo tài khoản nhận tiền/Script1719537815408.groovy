@@ -21,9 +21,13 @@ WebUI.callTestCase(findTestCase('Login/Login CMS'), [:], FailureHandling.STOP_ON
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
 
+WebUI.delay(3)
+
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'), 0)
 
 WebUI.click(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'))
+
+WebUI.delay(3)
 
 WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'), 0)
 
@@ -34,4 +38,6 @@ WebUI.click(findTestObject('QlyTKNHanTien/button_dongy'))
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_msghuythanhcong'), 'Hủy yêu cầu thành công')
 
 WebUI.click(findTestObject('QlyTKNHanTien/btn_Ok'))
+
+WebUI.closeBrowser()
 
