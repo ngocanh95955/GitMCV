@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9.Kiểm tra xoá tỷ giá thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ff61821-5b7d-4f22-b3c5-c5f8b6a607c3</testCaseGuid>
+</TestCaseEntity>

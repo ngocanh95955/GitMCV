@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8.Kiểm tra click button Huỷ tại màn thêm tỷ giá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>616247bf-931f-4322-801e-95c8eaf87889</testCaseGuid>
+</TestCaseEntity>

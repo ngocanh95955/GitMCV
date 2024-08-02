@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.Kiểm tra click button reset</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44d697b3-a47a-407b-8805-389b0fe64e54</testCaseGuid>
+</TestCaseEntity>

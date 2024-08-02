@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>1</name>
+   <name>10. Kiểm tra sửa tỷ giá thành công</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>78f95a08-ea9c-4caf-bb12-873295ddffdf</testCaseGuid>
+   <testCaseGuid>d55b4005-b69a-4806-98d9-86fb38d1ab4f</testCaseGuid>
 </TestCaseEntity>

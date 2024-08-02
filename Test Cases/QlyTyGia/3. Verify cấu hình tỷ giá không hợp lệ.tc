@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Verify cấu hình tỷ giá không hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>468cad74-8e12-47ae-a903-a7aa6b0136de</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2193dbf-bd9b-4930-8a28-b2fc2389f99d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5d8e20f-749a-4650-b561-295d4124712e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cbb5ce8-81a2-4e02-a1f6-c47dad65bf70</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2193dbf-bd9b-4930-8a28-b2fc2389f99d</id>
+      <masked>false</masked>
+      <name>USDsangVND</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5d8e20f-749a-4650-b561-295d4124712e</id>
+      <masked>false</masked>
+      <name>VNDsangUSD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6cbb5ce8-81a2-4e02-a1f6-c47dad65bf70</id>
+      <masked>false</masked>
+      <name>ValidateRessult</name>
+   </variable>
+</TestCaseEntity>

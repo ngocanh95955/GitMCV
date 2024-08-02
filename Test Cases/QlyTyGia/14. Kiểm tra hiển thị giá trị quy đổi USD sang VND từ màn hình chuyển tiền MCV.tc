@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14. Kiểm tra hiển thị giá trị quy đổi USD sang VND từ màn hình chuyển tiền MCV</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>331295da-3493-46bd-9fe8-415f5b64619b</testCaseGuid>
+</TestCaseEntity>

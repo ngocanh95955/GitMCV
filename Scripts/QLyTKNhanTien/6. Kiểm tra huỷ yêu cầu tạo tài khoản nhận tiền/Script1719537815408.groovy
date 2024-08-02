@@ -19,17 +19,11 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('Login/Login CMS'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
-
 WebUI.delay(3)
 
-WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'), 0)
-
-WebUI.click(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'))
+WebUI.navigateToUrl('https://stg-cms-console.9pay.mobi/user/account-withdraw?status=-1')
 
 WebUI.delay(3)
-
-WebUI.waitForElementVisible(findTestObject('QlyTKNHanTien/menu_QlyTKNhanTien'), 0)
 
 WebUI.click(findTestObject('QlyTKNHanTien/button_huy'))
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.Kiểm tra chức năng tìm kiếm tại màn hình Qly tỷ giá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0928972a-2a1c-4329-b458-dd60b26d80fa</testCaseGuid>
+</TestCaseEntity>

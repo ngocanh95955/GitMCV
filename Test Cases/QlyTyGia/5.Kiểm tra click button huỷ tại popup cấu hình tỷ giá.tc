@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5.Kiểm tra click button huỷ tại popup cấu hình tỷ giá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebfbf3c0-3ed8-4a1b-8ad7-3a8a915904d8</testCaseGuid>
+</TestCaseEntity>

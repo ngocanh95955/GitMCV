@@ -23,7 +23,9 @@ WebUI.click(findTestObject('QlyTKNHanTien/menu_QLyTKMerchant'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('QlyTKNHanTien/menu_Qlydanhsachtaikhoan'))
+WebUI.navigateToUrl('https://stg-cms-console.9pay.mobi/user')
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('QlyTKNHanTien/chon_taikhoanMC1'))
 

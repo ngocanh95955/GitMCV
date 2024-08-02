@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7.Kiểm tra thêm tỷ giá thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>295be4b7-6585-41ce-b18c-bcc0cf7074e2</testCaseGuid>
+</TestCaseEntity>

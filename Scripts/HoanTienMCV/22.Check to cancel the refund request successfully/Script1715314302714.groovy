@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'Z718R334')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'PJ2OVLDD')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -81,7 +81,7 @@ WebUI.click(findTestObject('HoanTien/menu_GDthuchitonghop'))
 
 WebUI.click(findTestObject('HoanTien/menu_GDthuhochiho'))
 
-WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'Z718R334')
+WebUI.setText(findTestObject('HoanTien/input_maGDgoccms'), 'PJ2OVLDD')
 
 WebUI.click(findTestObject('HoanTien/button_timkiemcms'))
 
@@ -99,15 +99,13 @@ WebUI.click(findTestObject('HoanTien/button_OKchitiet'))
 
 WebUI.navigateToUrl('https://stg-console.9pay.mobi/login')
 
-WebUI.setViewPortSize(1920, 1080)
-
 WebUI.waitForElementVisible(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'), 2)
 
 WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'Z718R334')
+WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'PJ2OVLDD')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12. Kiểm tra hiển thị giá trị quy dổi từ USD sang VNĐ tại màn chuyển tiền CMS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d59d42b-5b64-4690-9015-ffd4a22c489c</testCaseGuid>
+</TestCaseEntity>

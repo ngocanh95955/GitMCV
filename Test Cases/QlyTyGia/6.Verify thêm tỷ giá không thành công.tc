@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6.Verify thêm tỷ giá không thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3841aa4a-0a5f-4830-b72f-b10b992bf0d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a89b42e4-4c25-4e85-abfb-5c4e795e7609</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e91a129-7002-4cc9-8e6c-8ba538371f75</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79b9025c-f3d9-4b9f-986c-492203fee518</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a89b42e4-4c25-4e85-abfb-5c4e795e7609</id>
+      <masked>false</masked>
+      <name>tygiamua</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e91a129-7002-4cc9-8e6c-8ba538371f75</id>
+      <masked>false</masked>
+      <name>tygiaban</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79b9025c-f3d9-4b9f-986c-492203fee518</id>
+      <masked>false</masked>
+      <name>ValidateRessult</name>
+   </variable>
+</TestCaseEntity>

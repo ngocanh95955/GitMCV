@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('QlyTyGia/4.Cấu hình tỷ giá thành công'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Qly ty giá/icon_themmoi'))
+
+WebUI.setText(findTestObject('Qly ty giá/input_tygiamua'), '22222')
+
+WebUI.setText(findTestObject('Qly ty giá/input_tygiaban'), '33333')
+
+WebUI.click(findTestObject('Qly ty giá/button_huythemtygia'))
+
+WebUI.verifyTextNotPresent('22222', false)
+
+WebUI.verifyTextNotPresent('33333', false)
+
