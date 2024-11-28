@@ -104,14 +104,14 @@
    <testCaseLink>
       <guid>8a61a6f8-d570-47cf-9fc5-a27716d29e68</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/MCV9s/OpenLenhChiDon</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>df653fab-8d03-40bc-a6c5-26f476bf21e5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <iterationNameVariable>
          <defaultValue>''</defaultValue>
          <description></description>
@@ -158,7 +158,7 @@
    <testCaseLink>
       <guid>33cf92f8-f9b3-4b2d-a5ab-6f79709c6b41</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/MCV9s/ChiTienDon2</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -240,7 +240,7 @@
    <testCaseLink>
       <guid>d869ead7-1023-4fcc-9394-01e472a4bb3f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/MCV9s/QLTaiKhoanPhu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

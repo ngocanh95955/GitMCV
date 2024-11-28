@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>18. Kiểm tra duyệt GD không thành công khi duyệt vượt quyền</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67e39548-3b0c-4f1c-b1f6-ffe3c4980698</testCaseGuid>
+</TestCaseEntity>

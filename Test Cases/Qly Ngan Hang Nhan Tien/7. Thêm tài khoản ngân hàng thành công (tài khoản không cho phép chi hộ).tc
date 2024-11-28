@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Thêm tài khoản ngân hàng thành công (tài khoản không cho phép chi hộ)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27ae1d85-24de-4d4a-b416-ce293cb33995</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.delay(6)
+
+/// Đăng nhập CMS thêm tài khoản////
+WebUI.navigateToUrl('https://stg-cms-console.9pay.mobi/member-bank?is_use_payout=-1')
+
+WebUI.click(findTestObject('QlyNganHangChi/button_themmoi'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Chon_nganhang1'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('QlyNganHangChi/Chon_BankBIDV'))
+
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('QlyNganHangChi/input_Sotaikhoan'), '232323')
+
+WebUI.setText(findTestObject('QlyNganHangChi/input_Tentaikhoan'), 'NGOC ANH 1')
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_themmoiTK'))
+
+WebUI.verifyElementText(findTestObject('QlyNganHangChi/Expect_MSG_themtkthanhcong'), 'Thêm mới tài khoản ngân hàng thành công.')
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_OK'))
+
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('QlyNganHangChi/timkiem_tentk'), 'NGOC ANH 1')
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_timkiem'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_Sua'))
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('QlyNganHangChi/Chon_MC'))
+
+WebUI.setText(findTestObject('QlyNganHangChi/Input_Mc'), '9Service')
+
+WebUI.click(findTestObject('QlyNganHangChi/Chon_9service'))
+
+WebUI.click(findTestObject('QlyNganHangChi/butotn_search'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Chon_TKnghivan'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Chon_lydochan'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_capnhat1'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_OK'))
+
+//// Đăng nhjapa tk bị chặn ////
+WebUI.callTestCase(findTestCase('Login/Login MCV1'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(4)
+
+WebUI.navigateToUrl('https://stg-console.9pay.mobi/admin/transfer-banks')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_Chonbank'))
+
+WebUI.setText(findTestObject('QlyNganHangChi/input_bank'), 'BIDV')
+
+WebUI.click(findTestObject('QlyNganHangChi/CMS_chonBIDV'))
+
+WebUI.setText(findTestObject('QlyNganHangChi/MCV_SoTK'), '232323')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_butotnKiemtra'))
+
+WebUI.verifyElementText(findTestObject('QlyNganHangChi/Expect_TKchanboinganhang'), 'Tài khoản bị chặn bởi ngân hàng')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_buttonOK'))
+
+WebUI.click(findTestObject('QlyNganHangChi/Button_dangxuat'))
+
+WebUI.callTestCase(findTestCase('Login/Login MCV 2'), [:], FailureHandling.STOP_ON_FAILURE)
+
+//// Dang nhập tài khoản không bị chặn///
+WebUI.delay(3)
+
+WebUI.navigateToUrl('https://stg-console.9pay.mobi/admin/transfer-banks')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_Chonbank'))
+
+WebUI.setText(findTestObject('QlyNganHangChi/input_bank'), 'BIDV')
+
+WebUI.click(findTestObject('QlyNganHangChi/CMS_chonBIDV'))
+
+WebUI.setText(findTestObject('QlyNganHangChi/MCV_SoTK'), '232323')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_butotnKiemtra'))
+
+WebUI.setText(findTestObject('QlyNganHangChi/MCV_input_sotien'), '100000')
+
+WebUI.setText(findTestObject('QlyNganHangChi/MCV_inputMaxacthuc'), '123456')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_buttonTaolechchi'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_buttonOK'))
+
+WebUI.delay(5)
+
+WebUI.setText(findTestObject('QlyNganHangChi/MCV_TimkiemTK'), '232323')
+
+WebUI.click(findTestObject('QlyNganHangChi/MCV_buttonTimkiem'))
+
+WebUI.verifyElementText(findTestObject('QlyNganHangChi/ExpectMCV_Nganhang'), 'BIDV')
+
+WebUI.verifyElementText(findTestObject('QlyNganHangChi/ExpectMCV_STK'), '232323')
+
+WebUI.verifyElementText(findTestObject('QlyNganHangChi/Expect_TenTKh'), 'NGOC ANH 1')
+

@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>e387844b-f0a4-4268-ae52-b071770c0efb</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/QLyTKNhanTien/1. Kiểm tra chức năng tìm kiếm tại màn hình Quản lý tài khoản nhận</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -129,7 +129,7 @@
    <testCaseLink>
       <guid>817b214b-9b6a-46fa-aade-cb8be8c0a3fb</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/QLyTKNhanTien/8.Kiểm tra tài khoản có trạng thái không hoạt động</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

@@ -35,7 +35,7 @@ WebUI.click(findTestObject('HoanTien/Page_QLyGiaoDich/menu_QuanlyGD'))
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/menu_LichSuGD'))
 
-WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'P84ERX82')
+WebUI.setText(findTestObject('HoanTien/Page_LichSuGD/input_MaGiaoDichh'), 'Z1R6KXB3')
 
 WebUI.click(findTestObject('HoanTien/Page_LichSuGD/button_Timkiem'))
 
@@ -71,7 +71,7 @@ WebUI.scrollToElement(findTestObject('HoanTien/Button_chitiet'), 0)
 
 WebUI.verifyElementText(findTestObject('HoanTien/Expeted_Taikhoan'), 'autotest')
 
-WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'P84ERX82')
+WebUI.setText(findTestObject('HoanTien/input_MaGDGoc'), 'Z1R6KXB3')
 
 WebUI.verifyElementText(findTestObject('HoanTien/Expected_Thongtinnganhang'), 'Tài khoản nhận\nVIETINBANK\n1023020330000\nNGUYEN VAN A')
 

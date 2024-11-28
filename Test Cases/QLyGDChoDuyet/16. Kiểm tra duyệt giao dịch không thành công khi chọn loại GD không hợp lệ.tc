@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16. Kiểm tra duyệt giao dịch không thành công khi chọn loại GD không hợp lệ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae74d1e4-96fb-4817-98fd-8c05f375bea1</testCaseGuid>
+</TestCaseEntity>

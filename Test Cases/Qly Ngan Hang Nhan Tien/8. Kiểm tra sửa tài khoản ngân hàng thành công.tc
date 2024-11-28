@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8. Kiểm tra sửa tài khoản ngân hàng thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fdaab28-1cf3-4e1f-a2d0-2a4c6ffcafa7</testCaseGuid>
+</TestCaseEntity>

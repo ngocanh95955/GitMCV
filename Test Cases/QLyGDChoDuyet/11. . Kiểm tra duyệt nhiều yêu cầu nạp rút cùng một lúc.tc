@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11. . Kiểm tra duyệt nhiều yêu cầu nạp rút cùng một lúc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a071597-fa39-48aa-86a6-64a1f4a0cafe</testCaseGuid>
+</TestCaseEntity>

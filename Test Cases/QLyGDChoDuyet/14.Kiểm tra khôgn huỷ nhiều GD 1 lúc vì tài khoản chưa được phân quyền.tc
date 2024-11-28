@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14.Kiểm tra khôgn huỷ nhiều GD 1 lúc vì tài khoản chưa được phân quyền</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54b13e1b-657c-43a6-847d-feaa948356b7</testCaseGuid>
+</TestCaseEntity>

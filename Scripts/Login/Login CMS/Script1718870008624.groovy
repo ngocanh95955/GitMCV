@@ -31,3 +31,5 @@ WebUI.click(findTestObject('HoanTien/button_logincms'))
 
 WebUI.setViewPortSize(1920, 1080)
 
+WebUI.delay(4)
+

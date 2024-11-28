@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10.Kiểm tra huỷ nhiều giao dịch hoàn cùng một lúc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1db714b2-b4fe-4168-9503-a2e8d280204a</testCaseGuid>
+</TestCaseEntity>

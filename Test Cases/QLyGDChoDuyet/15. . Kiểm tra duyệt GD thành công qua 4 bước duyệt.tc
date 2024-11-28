@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15. . Kiểm tra duyệt GD thành công qua 4 bước duyệt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12a13582-3d36-46df-940a-460975e905ff</testCaseGuid>
+</TestCaseEntity>

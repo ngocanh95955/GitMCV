@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>17 . Kiểm tra duyệt GD chờ duyệt thành công khi TK được phân quyền Duyet qua 4 bước duyệt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37479250-4e80-465d-a4a3-bb6295e92df5</testCaseGuid>
+</TestCaseEntity>

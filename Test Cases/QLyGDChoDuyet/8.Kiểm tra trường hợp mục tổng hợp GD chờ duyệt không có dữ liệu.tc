@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8.Kiểm tra trường hợp mục tổng hợp GD chờ duyệt không có dữ liệu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>479dbcdf-1fec-4772-8608-826a81a65daf</testCaseGuid>
+</TestCaseEntity>

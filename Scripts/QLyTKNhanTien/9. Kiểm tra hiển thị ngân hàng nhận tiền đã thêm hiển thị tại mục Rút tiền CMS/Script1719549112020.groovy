@@ -35,6 +35,8 @@ WebUI.click(findTestObject('QlyTKNHanTien/input_nhaptk'))
 
 WebUI.click(findTestObject('QlyTKNHanTien/button_searchqltk'))
 
+WebUI.scrollToElement(findTestObject('QlyTKNHanTien/button_ruttiencms'), 0)
+
 WebUI.click(findTestObject('QlyTKNHanTien/button_ruttiencms'))
 
 WebUI.delay(9)

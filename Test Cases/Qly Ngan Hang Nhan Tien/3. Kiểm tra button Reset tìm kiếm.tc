@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Kiểm tra button Reset tìm kiếm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91ed4adc-58f7-4da0-88fd-95881f159fa4</testCaseGuid>
+</TestCaseEntity>

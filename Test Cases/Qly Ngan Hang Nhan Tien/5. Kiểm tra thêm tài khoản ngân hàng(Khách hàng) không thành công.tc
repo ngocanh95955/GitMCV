@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Kiểm tra thêm tài khoản ngân hàng(Khách hàng) không thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0acea25f-291e-42e2-b132-82181a9b38e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4200ff9a-4a58-49c0-9557-a07ea12d4e7d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>231a8949-534d-408d-8983-4d9dfa02afce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b615d7db-0ed1-4eb3-b660-dabaed8c1b6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4200ff9a-4a58-49c0-9557-a07ea12d4e7d</id>
+      <masked>false</masked>
+      <name>Sotaikhoan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>231a8949-534d-408d-8983-4d9dfa02afce</id>
+      <masked>false</masked>
+      <name>Tentaikhoan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b615d7db-0ed1-4eb3-b660-dabaed8c1b6f</id>
+      <masked>false</masked>
+      <name>validateRessult</name>
+   </variable>
+</TestCaseEntity>

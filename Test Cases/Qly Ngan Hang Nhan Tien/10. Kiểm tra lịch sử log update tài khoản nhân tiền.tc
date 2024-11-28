@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Kiểm tra lịch sử log update tài khoản nhân tiền</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8350d5e0-de36-430a-a20a-85042defb0ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12.Kiểm tra không duyệt được yêu cầu hoàn tiền khi tài khoản chưa được phân quyền</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4848718-26d7-4fcb-8d55-df50b918bd41</testCaseGuid>
+</TestCaseEntity>

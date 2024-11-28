@@ -45,17 +45,15 @@ WebUI.click(findTestObject('QlyTKNHanTien/button_duyet'))
 
 WebUI.click(findTestObject('QlyTKNHanTien/button_dongy'))
 
-WebUI.click(findTestObject('QlyTKNHanTien/btn_Ok'))
-
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_taikoan'), '9Service')
 
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/expected_sotaikhoan'), '1023020330000')
 
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_tentaikhoan'), 'NGUYEN VAN A')
 
+WebUI.click(findTestObject('QlyTKNHanTien/btn_Ok'))
+
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_nganhang'), 'BIDV - NH Dau Tu va Phat Trien VN')
 
 WebUI.verifyElementText(findTestObject('QlyTKNHanTien/Expected_trangthai'), 'Hoạt động')
-
-
 

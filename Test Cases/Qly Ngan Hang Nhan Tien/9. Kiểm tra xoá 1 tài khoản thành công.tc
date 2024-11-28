@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Kiểm tra xoá 1 tài khoản thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eac0333e-e820-4032-b048-63b3f7a012f0</testCaseGuid>
+</TestCaseEntity>

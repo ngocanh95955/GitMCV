@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Kiểm tra xoá nhiều tk ngân hàng cùng 1 lúc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b23b8c6-df98-412f-a362-00aa4958b0b0</testCaseGuid>
+</TestCaseEntity>

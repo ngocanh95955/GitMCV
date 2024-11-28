@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12.Kiểm tra chi không thành công về STK đã thêm (TK không cho phép chi)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f749ca5-aa4d-4160-b1f2-3b267b635997</testCaseGuid>
+</TestCaseEntity>

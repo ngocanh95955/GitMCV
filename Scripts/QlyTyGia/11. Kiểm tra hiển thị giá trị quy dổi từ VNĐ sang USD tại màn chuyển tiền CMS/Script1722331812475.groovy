@@ -23,6 +23,8 @@ WebUI.navigateToUrl('https://stg-cms-console.9pay.mobi/user')
 
 WebUI.click(findTestObject('Qly ty giá/chon_taikhoan'))
 
+WebUI.setText(findTestObject('Qly ty giá/input_taikhoan1'), 'autotest')
+
 WebUI.click(findTestObject('Qly ty giá/chon_taikhoan_autotest'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Qly ty giá/nhaptk'))

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13.Thêm tài khoản ngân hàng không cho phép chi hộ với tài khoản MC nhất định</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ea4c448-f35b-452a-b097-5174c096304e</testCaseGuid>
+</TestCaseEntity>

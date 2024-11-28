@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14. trường hợp thêm tài khoản ngân hàng không cho phép chi hộ với tài khoản MC nhất định (cho phép sub-mc sử dựng cấu hình của master)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c01304b-6c73-4f01-a73c-44b77e8250ee</testCaseGuid>
+</TestCaseEntity>

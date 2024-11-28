@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Kiểm tra hiển thị dữ liệu chính xác tại mục GD chờ VH 2 duỵet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8fd9e74-8c51-41a2-8429-9c0b847d51b9</testCaseGuid>
+</TestCaseEntity>

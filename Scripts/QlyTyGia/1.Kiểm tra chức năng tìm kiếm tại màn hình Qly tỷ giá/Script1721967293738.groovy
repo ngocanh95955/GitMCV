@@ -25,9 +25,9 @@ WebUI.click(findTestObject('Qly ty giá/button_timkiem'))
 
 WebUI.verifyElementText(findTestObject('Qly ty giá/ExpectMSG_KhongtimthayKQ'), 'Không tìm thấy dữ liệu.')
 
-WebUI.setText(findTestObject('Qly ty giá/input_thoigiantao'), '02/05/2024 - 02/05/2024')
+WebUI.setText(findTestObject('Qly ty giá/input_thoigiantao'), '12/09/2024 - 12/09/2024')
 
 WebUI.click(findTestObject('Qly ty giá/button_timkiem'))
 
-WebUI.verifyElementText(findTestObject('Qly ty giá/Expect_thoigiantao'), '06:00 02/05/2024')
+WebUI.verifyElementText(findTestObject('Qly ty giá/Expect_thoigiantao'), '04:04 12/09/2024')
 
